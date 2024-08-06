@@ -1,0 +1,5 @@
+<?php
+$pao = array('batata ','geladeira' ,' macarrao');
+print_r($pao);
+
+?>
